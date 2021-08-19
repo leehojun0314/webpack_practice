@@ -1,0 +1,27 @@
+{
+  "name": "webpack_practice_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leehojun0314/webpack_practice.git"
+  },
+  "author": "leehojun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leehojun0314/webpack_practice/issues"
+  },
+  "homepage": "https://github.com/leehojun0314/webpack_practice#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
